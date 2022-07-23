@@ -1,0 +1,8 @@
+export enum TRoute {
+  SIGNIN = 'SIGNIN',
+  SIGNUP = 'SIGNUP',
+  HOME = 'HOME',
+  BOOKMARKS = 'BOOKMARKS',
+  COLLECTIONS = 'COLLECTIONS',
+  SETTINGS = 'SETTINGS',
+}
